@@ -1,0 +1,93 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header
+{
+    background-color: #333d6b;
+    color: #f2dacf;
+    display: flex;
+    justify-content: space-around;
+}
+
+.aluninho
+{
+display: inline-block;
+margin: 16px;
+height: 50px; width: 50px;
+}
+
+.turma
+{
+display: inline-block;
+margin-block: 20px;
+height: 70px; width: 70px;
+font-style: inherit;
+}
+
+body
+{
+    background-color: #f2dacf;
+    font-family:'Raleway', sans-serif; 
+}
+
+.gatomarinheiro
+{
+ width: 260px;
+ height: 300px;
+
+}
+
+.sobre
+{ 
+    background-image: linear-gradient(#333d6b, #f2dacf) ;
+    color: #101048;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.sobredivconteudo
+{ 
+    width: 35%;
+}
+
+.sobretitulo
+{
+    padding: 24px 0;
+}
+
+.estudantediv
+{
+ text-align: center;
+}
+
+.estudicon
+{
+    width: 50px;
+    margin: 9px;
+}
+
+.quemsomos
+{ 
+ text-align: center;
+ padding: 50px 0;
+}
+
+.estudantetodos
+{ 
+    display: grid;
+    grid-template-columns: 25% 27% 20% 25% 23%;
+}
+
+.rodapé
+{
+    background-color: #333d6b;
+    text-align: center;
+}
+
+.rodapéimagem
+{
+    height: 60px;
+}
